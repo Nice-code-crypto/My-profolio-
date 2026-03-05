@@ -85,7 +85,7 @@
 
         <div class="section">
             <h2>About Me</h2>
-            <p>My name is <strong>Nafissatou Aboubakar</strong>. I am 18 years old and I <strong>love programming</strong>. I am currently pursuing my Higher National Diploma (HND) and am passionate about building software solutions.</p>
+            <p>My name is <strong>Nafissatou Aboubakar</strong>. I am 18 years old and I <strong>love programming</strong>. I am currently pursuing my Higher National Diploma (HND) at CITECHIM and am passionate about building software solutions and bringing up innovative IT ideas.</p>
         </div>
 
         <div class="section">
@@ -112,7 +112,7 @@
         </div>
 
         <div class="section">
-            <h2>Connect with Me</h2>
+            <h2>Connect Me</h2>
             <p>Find my code and reach out for collaborations:</p>
             
             <a href="https://github.com/Nice-code-crypto" class="btn github-btn">View My Code on GitHub</a>
@@ -123,9 +123,8 @@
         </div>
 
         <footer>
-            <p>&copy; 2026 Nafissatou Aboubakar | Built with Acode</p>
+            <p>&copy; 2026 Nafissatou Aboubakar | Built  by Nice</p>
         </footer>
     </div>
 </body>
 </html>
-
